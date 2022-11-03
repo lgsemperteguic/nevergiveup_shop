@@ -1,0 +1,51 @@
+[
+    {
+        "precio": 269.90,
+        "id": 1,
+        "title": "Proteína whey",
+        "description": "Proteína de la mejor calidad con un alto contenido en aminoácidos esenciales.",
+        "type": "suplemento",
+        "thumbnailUrl": "img/suplementos/producto1.png"
+    },
+    {
+        "precio": 223.50,
+        "id": 2,
+        "title": "Shape Shake 2.0",
+        "description": "Sustituto de comidas para pérdida de peso.",
+        "type": "suplemento",
+        "thumbnailUrl": "img/suplementos/producto2.png"
+    },
+    {
+        "precio": 220.50,
+        "id": 3,
+        "title": "Clear Whey",
+        "description": "Es un polvo rico en proteína, con bajo contenido en lactosa y está elaborado a partir de leche.",
+        "type": "suplemento",
+        "thumbnailUrl": "img/suplementos/producto3.png"
+    },
+    {
+        "precio": 406.60,
+        "id": 4,
+        "title": "Muscle Pack Básico",
+        "description": "En el Pack encontrarás nuestros tres productos esenciales diseñados para ayudarte a tener unos entrenamientos más intensos y ver los resultados que quieres.",
+        "type": "suplemento",
+        "thumbnailUrl": "img/suplementos/producto6.png"
+    },
+    {
+        "precio": 410.50,
+        "id": 5,
+        "title": "Shape Pack Básico",
+        "description": "Nuestro Shape Pack tiene todo lo que necesitas para la pérdida de peso.",
+        "type": "suplemento",
+        "thumbnailUrl": "img/suplementos/producto5.png"
+    },
+    {
+        "precio": 225.50,
+        "id": 6,
+        "title": "Daily Protein + Focus",
+        "description": "Una ayuda extra para mejorar tu rendimiento mental - todos los días.",
+        "type": "suplemento",
+        "thumbnailUrl": "img/suplementos/producto4.png"
+    }
+  ]
+  
